@@ -1,0 +1,8 @@
+{
+  "name": "cra-template-full-frontal",
+  "version": "1.0",
+  "main": "template.json",
+  "repository": "git@github.com:michelangelo17/cra-template-full-frontal.git",
+  "author": "michelangelo17 <michelangelo.markus@gmail.com>",
+  "license": "MIT"
+}
